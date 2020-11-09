@@ -1,3 +1,5 @@
 <?php
-
-echo "ceci est une petit test";
+// test git hub
+// git -d feature
+echo 'salut git';
+ ?>
